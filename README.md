@@ -1,3 +1,7 @@
+![CI](https://github.com/lovepinnock-work/fastapi-social-api/actions/workflows/build-deploy.yml/badge.svg)
+
+# FastAPI Social Media API
+
 ## About This Project
 This project is a backend API for a social media application.
 
@@ -42,3 +46,12 @@ pytest
 ## Performance Testing
 Smoke and stress testing were performed using k6 to evaluate system behavior under normal and high concurrency. Details, results and further analysis found in /docs/README.md
 
+## Tech Stack
+- FastAPI
+- PostgreSQL
+- SQLAlchemy + Alembic
+- JWT / OAuth2
+- Docker & Docker Compose
+- Pytest
+- k6 (load & stress testing)
+- GitHub Actions (CI)
