@@ -1,4 +1,4 @@
-![CI](https://github.com/lovepinnock-work/fastapi-social-api/actions/workflows/build-deploy.yml/badge.svg)
+![CI](https://github.com/lovepinnock-work/fastapi-social-api/actions/workflows/build-deploy.yaml/badge.svg)
 
 # FastAPI Social Media API
 
